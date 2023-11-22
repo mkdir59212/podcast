@@ -1,35 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
+      <link>https://www.radio2m.ma</link>
     <title>Votre Flux Audio</title>
-    <link>URL_de_votre_site_web</link>
     <description>Description de votre flux audio</description>
     <language>fr-FR</language>
-    <generator>Mon_Générateur_XML</generator>
-    <lastBuildDate>Thu, 23 Nov 2023 12:00:00 GMT</lastBuildDate>
     
-    <!-- Ajout d'une image pour le flux (facultatif) -->
-    <image>
-      <url>URL_de_l_image</url>
-      <title>Votre Flux Audio</title>
-      <link>URL_de_votre_site_web</link>
-    </image>
+ 
     
     <!-- Premier épisode -->
     <item>
       <title>La Bombonera - Maroc...</title>
       <!-- Utilisation de CDATA pour les descriptions qui peuvent contenir des caractères spéciaux -->
       <description><![CDATA[Maroc vs Tanzanie, CDM U17: Le Maroc en quar...]]></description>
-      <enclosure url="https://bo.radio2m.ma/sites/default/files/2023-11/BOMBONERA%2021%2011%202023%20PODCAST.mp3" length="Taille_en_octets" type="audio/mpeg" />
-      <pubDate>Mon, 21 Nov 2023 12:00:00 GMT</pubDate>
+      <enclosure url="https://bo.radio2m.ma/sites/default/files/2023-11/BOMBONERA%2021%2011%202023%20PODCAST.mp3" type="audio/mpeg" length = '60' />
+      <pubDate>Tue, 21 Nov 2023 12:00:00 GMT</pubDate>
     </item>
     
     <!-- Deuxième épisode -->
     <item>
       <title>La Bombonera - Grogn...</title>
       <description><![CDATA[Grognes autour des dates Fifa, le cas Mbappé]]></description>
-      <enclosure url="https://bo.radio2m.ma/sites/default/files/2023-11/BOMBONERA%2020%2011%202023%20PODCAST.mp3" length="Taille_en_octets" type="audio/mpeg" />
-      <pubDate>Sun, 20 Nov 2023 12:00:00 GMT</pubDate>
+      <enclosure url="https://bo.radio2m.ma/sites/default/files/2023-11/BOMBONERA%2020%2011%202023%20PODCAST.mp3" type="audio/mpeg" length = '60' />
+      <pubDate>Mon, 20 Nov 2023 12:00:00 GMT</pubDate>
     </item>
 
     <!-- Ajouter d'autres items similaires pour chaque épisode -->
