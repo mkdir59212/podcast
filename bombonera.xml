@@ -5,7 +5,11 @@
     <link>https://raw.githubusercontent.com/mkdir59212/podcast/main/bombonera.xml</link>
     <description>La passion du foot!</description>
     <language>fr-FR</language>
-    
+    <image>
+      <url>https://bo.radio2m.ma/sites/default/files/2024-04/Image%20podcast%20BOMBONERA%2080x80_28.png</url>
+      <title>La Bombonera</title>
+      <link>https://bo.radio2m.ma/sites/default/files/2024-04/Image%20podcast%20BOMBONERA%2080x80_28.png</link>
+	  </image>
     
         <item>
           <title>
