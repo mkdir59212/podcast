@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>Votre Flux Audio</title>
-    <link>URL_de_votre_site_web</link>
-    <description>Description de votre flux audio</description>
+    <title>La Bombonera</title>
+    <link>https://raw.githubusercontent.com/mkdir59212/podcast/main/bombonera.xml</link>
+    <description>La passion du foot!</description>
     <language>fr-FR</language>
     
     
